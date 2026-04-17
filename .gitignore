@@ -1,0 +1,11 @@
+.next
+node_modules
+.DS_Store
+KeyAPICaNhan.json
+.env
+.env.local
+.env.development.local
+.env.production.local
+npm-debug.log*
+
+TheoDoiTienDoNoiThat.xlsx
